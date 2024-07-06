@@ -39,7 +39,7 @@ The dataset used in this analysis is LaptopPricing.csv, which contains various f
   **R^2** scores of the *Linear Regression* model created using different degrees of polynomial features, ranging from 1 to 5.
   <img src="sc/R2_1.png" alt="R2_polynomial-features" width="800"/>
   
-  *R^2* values of *Ridge Regression* model for training and testing sets with respect to the values of alpha
+  *R^2* values of *Ridge Regression* model for training and testing sets with respect to the values of alpha.
   <img src="sc/R2_2.png" alt="R2_for-alphas" width="800"/>
 </div>
 
